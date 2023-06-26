@@ -27,9 +27,10 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(236, 75, 35);
-    font-family: Cursive;
+    color: rgb(239, 201, 8);
+    font-family: Bradley Hand, cursive;
     font-weight: bold;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 /* spacing on all sections */
